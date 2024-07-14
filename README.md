@@ -25,6 +25,7 @@ the following :
 * Github Enterprise
 * Compliance with Sonar quality gates
 * Swissmedic Docker images
+  
 And on the cloud/pipeline-side, we have :
 * Swissmedic pipeline workflows
 * Microsoft Azure
