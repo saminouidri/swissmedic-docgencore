@@ -18,18 +18,18 @@ Note : as the project deals with sensitive information, only an old skeleton cop
 
 The various technologies employed can be roughly sorted into two categories. We have, on the application-side,
 the following :
-— Spring Boot 3
-— Java 17
-— Aspose.Words (Document generation/manipulation library)
-— Gradle
-— Github Enterprise
-— Compliance with Sonar quality gates
-— Swissmedic Docker images
+* Spring Boot 3
+* Java 17
+* Aspose.Words (Document generation/manipulation library)
+* Gradle
+* Github Enterprise
+* Compliance with Sonar quality gates
+* Swissmedic Docker images
 And on the cloud/pipeline-side, we have :
-— Swissmedic pipeline workflows
-— Microsoft Azure
-— Kubernetes
-— Helm
+* Swissmedic pipeline workflows
+* Microsoft Azure
+* Kubernetes
+* Helm
 
 ## Azure Cloud deployment process
 
